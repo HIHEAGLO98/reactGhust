@@ -1,0 +1,99 @@
+{
+  "utilisateurs": [
+    {
+      "email": "augustin2.@gmail.com",
+      "username": "tyyyyyyy",
+      "userPassword": "U.fv55uK9@XHKpG",
+      "userConfirmPassword": "U.fv55uK9@XHKpG",
+      "id": 1
+    },
+    {
+      "email": "augustin2.@gmail.com",
+      "username": "tyyyyyyy",
+      "userPassword": "U.fv55uK9@XHKpG",
+      "userConfirmPassword": "U.fv55uK9@XHKpG",
+      "id": 2
+    },
+    {
+      "email": "hiheaaugusto@gmail.com",
+      "username": "Augustin H",
+      "userPassword": "12345678",
+      "userConfirmPassword": "12345678",
+      "id": 3
+    },
+    {
+      "email": "augustin.@gmail.com",
+      "username": "Ghust H",
+      "userPassword": "Augustin98",
+      "userConfirmPassword": "Augustin98",
+      "id": 4
+    },
+    {
+      "email": "greta@gmail.com",
+      "username": "Gréta",
+      "userPassword": "12345678",
+      "userConfirmPassword": "12345678",
+      "id": 5
+    }
+  ],
+  "posts": [
+    {
+      "postPub": "Salut mes gens\nCette semaine a été très riche en découverte pour moi..",
+      "imageUrl": "https://img.freepik.com/photos-gratuite/arbre-noel-dans-parc-enneige_23-2150830394.jpg?w=1060&t=st=1702236321~exp=1702236921~hmac=6c7de13fc8fb237ebeab82ace4bf9de0de5003e288305012d83260756244ce54",
+      "userId": 3,
+      "datePub": "2023-12-10T19:26:14.267Z",
+      "likePub": 0,
+      "auteur": "Augustin H",
+      "id": 1
+    },
+    {
+      "postPub": "C'est bientôt les noëls; une bonne préparation est en cours...",
+      "imageUrl": "https://img.freepik.com/photos-premium/jeune-fille-marchant-dans-foret-enneigee-souriant-camera_118454-17609.jpg?w=996",
+      "userId": 3,
+      "datePub": "2023-12-10T19:29:25.219Z",
+      "likePub": 0,
+      "auteur": "Augustin H",
+      "id": 2
+    },
+    {
+      "postPub": "Une belle journée en groupe après les cours",
+      "imageUrl": "https://img.freepik.com/photos-gratuite/groupe-cinq-etudiants-africains-passant-du-temps-ensemble-campus-cour-universite-amis-afro-noirs-etudiant-theme-education_627829-6007.jpg?w=996&t=st=1702236680~exp=1702237280~hmac=c2ec4e2bdde78a77485c2ca4dc2eef9e67f8c4118a9ae2e7efd73165d7177ad6",
+      "userId": 3,
+      "datePub": "2023-12-10T19:31:56.461Z",
+      "likePub": 0,
+      "auteur": "Augustin H",
+      "id": 3
+    },
+    {
+      "postPub": "Un groupe de travail consistant",
+      "imageUrl": "https://img.freepik.com/photos-gratuite/groupe-etude-du-peuple-africain_23-2149156390.jpg?w=996&t=st=1702236770~exp=1702237370~hmac=bd2f7476fe71def58041105b1e795837af7743ce07d16592fe39647b51bdef53",
+      "userId": 4,
+      "datePub": "2023-12-10T19:34:18.764Z",
+      "likePub": 0,
+      "auteur": "Ghust H",
+      "id": 4
+    },
+    {
+      "postPub": "Toujours en groupe de camaraderie",
+      "imageUrl": "https://img.freepik.com/photos-gratuite/trois-etudiantes-africaines-posees-sacs-dos-articles-scolaires-dans-cour-universite_627829-5949.jpg?w=996&t=st=1702236874~exp=1702237474~hmac=277bef35f00cd156881499d0a0e3a108c6549708aeb7088ccd9fb77c27e706d4",
+      "userId": 4,
+      "datePub": "2023-12-10T19:35:23.142Z",
+      "likePub": 0,
+      "auteur": "Ghust H",
+      "id": 5
+    },
+    {
+      "postPub": "Une journée passée au jardin de l'université",
+      "imageUrl": "https://img.freepik.com/photos-gratuite/etudiants-victorieux-posant-prairie_23-2147664351.jpg?w=996&t=st=1702236975~exp=1702237575~hmac=ed8428c9357b99cae092aebe68e3414b34681fe4c48ebf0b43159f04f41eb4be",
+      "userId": 4,
+      "datePub": "2023-12-10T19:44:00.363Z",
+      "likePub": 0,
+      "auteur": "Ghust H",
+      "id": 6
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
