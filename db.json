@@ -1,27 +1,6 @@
 {
   "utilisateurs": [
     {
-      "email": "augustin2.@gmail.com",
-      "username": "tyyyyyyy",
-      "userPassword": "U.fv55uK9@XHKpG",
-      "userConfirmPassword": "U.fv55uK9@XHKpG",
-      "id": 1
-    },
-    {
-      "email": "augustin2.@gmail.com",
-      "username": "tyyyyyyy",
-      "userPassword": "U.fv55uK9@XHKpG",
-      "userConfirmPassword": "U.fv55uK9@XHKpG",
-      "id": 2
-    },
-    {
-      "email": "hiheaaugusto@gmail.com",
-      "username": "Augustin H",
-      "userPassword": "12345678",
-      "userConfirmPassword": "12345678",
-      "id": 3
-    },
-    {
       "email": "augustin.@gmail.com",
       "username": "Ghust H",
       "userPassword": "Augustin98",
